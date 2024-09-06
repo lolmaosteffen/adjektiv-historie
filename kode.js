@@ -19,9 +19,9 @@ updateView()
 function updateView() {
     app.innerHTML = /*HTML*/ `
         <div>
-        <div>once upon a time there was a</div>
+        <div>Once upon a time there was a</div>
         <div>${prince} ${princess}</div>
-        <div>, they lived peacefully, until</div>
+        <div>they lived peacefully, until a</div>
         <div>${villain} ${villainess}</div>
         <div>attacked.</div>
         <div>then a</div>
